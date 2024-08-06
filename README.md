@@ -1,16 +1,15 @@
-## Hi there 👋
+## BEM VINDOS AO MEU PERFIL
 
-<!--
-**mariac1j/mariac1j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+                 ✨me chamo Maria Clara ✨ 
 
-Here are some ideas to get you started:
+Irei falar um pouco sobre mim!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 eu sou muito sonhadora
+- 🌱 amo a natureza,ou qualquer praia e cachoeiras
+- 👯 tenho seis amigas incriveis
+- 🤔 amo criar ideias inovadoras
+- 💬 sou catolica
+- 📫 How to reach me:atraves de mensagem, e correio
+- 😄 Pronouns-ela dela
+- ⚡ quero fazer faculdade de medicina veterinaria
 -->
